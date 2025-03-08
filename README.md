@@ -1,4 +1,4 @@
-<h2 align="center">Longitudinal Analysis of Cucumber Moisture Levels: Integrating Image and Weight Data</h2>
+<h2 align="center">Title: Longitudinal Analysis of Cucumber Moisture Levels: Integrating Image and Weight Data</h2>
 
 <h3 align="center">Research Project 1</h3>
 
